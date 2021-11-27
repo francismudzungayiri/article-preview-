@@ -1,4 +1,3 @@
-alert("javascript file called");
 
 var desktop_shareBtn = document.querySelector("#btn");
 var shareDiv = document.querySelector(".share");
